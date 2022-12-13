@@ -18,5 +18,9 @@ int main(void)
         printf("a / c = %i/n" , result);
 
 	result = a + b * c;
-        printf("a + b *c = %i/n" , result); 
+        printf("a + b *c = %i/n" , result);
+
+	printf("a * b + c * d = %i/n" , a * b + c * d);
+
+	return(0);
 }
