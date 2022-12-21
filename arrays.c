@@ -28,3 +28,13 @@ Accessing multidemnsional arrays
 
 int i = values [2][3];
 values[0][2] = 1000;
+
+
+/**
+ * fopen() : open text and binary files for read/write.
+ * fclose() : close files when finished.
+ * errno - Globally defined external integer that is set to the last error code.
+ * include <errno.h>
+ * ferror() : returns errno for file operations.
+ * perror() : handy output function for printing textual description of error
+ */
