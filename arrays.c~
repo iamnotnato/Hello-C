@@ -1,0 +1,4 @@
+#include <stdio.h>
+
+int  values[4] = {0, 1, 2, 3};
+char greetings[5] = {'''''''h'
