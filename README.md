@@ -10,4 +10,4 @@ This is my hands-on practice and understanding of the concepts of the C programm
 
 <h4>Projects Guide: </h4>
 
-* [arrays.c - A short summary of arrays and useful commands to access files](./arrays.c)
+* [arrays.c - A short summary of arrays and useful commands to access files.](./arrays.c)
