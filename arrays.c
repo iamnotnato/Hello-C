@@ -37,4 +37,10 @@ values[0][2] = 1000;
  * include <errno.h>
  * ferror() : returns errno for file operations.
  * perror() : handy output function for printing textual description of error
- */
+ * fscanf() : only input comes from file
+ * fgetc() : read text file, one character at a time.
+ * fgets() : read text file , one line at a time.
+ * fprintf(): only output goes to file.
+ * fputc() : write to text file , one character at a time.
+ * fputs() : write to text file, one line at a time.
+*/
