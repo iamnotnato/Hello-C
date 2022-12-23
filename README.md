@@ -1,4 +1,5 @@
 # Hello-C
+<h4>Summary :</h4>
 This is my hands-on practice and understanding of the concepts of the C programming language.
 
 <h4>Languages Used</h4>
@@ -15,7 +16,7 @@ This is my hands-on practice and understanding of the concepts of the C programm
   </tr>
 </table>
 
-<h4>Projects Guide: </h4>
+<h4>Files: </h4>
 
 * [arrays.c - A short summary of arrays and useful commands to access files.](./arrays.c)
 * [avg_fix.c - A program to calculate the average based on user input.](./avg_fix.c)
