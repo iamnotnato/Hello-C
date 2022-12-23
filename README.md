@@ -18,3 +18,10 @@ This is my hands-on practice and understanding of the concepts of the C programm
 <h4>Projects Guide: </h4>
 
 * [arrays.c - A short summary of arrays and useful commands to access files.](./arrays.c)
+* [avg_fix.c - A program to calculate the average based on user input.](./avg_fix.c)
+* [computingfactorial.c - A program to calculate the factorial of numbers between 1 and 10.](./computingfactorial.c)
+* [expression.c - A program to illustrate the various operators in C.](./expression.c)
+* [factorial.c - A program to calculate the factorial of numbers between 1 and 5](./factorial.c)
+* [hello.c - Hello World!](./hello.c)
+* [io_demo.c - A program to display formatted output based on user input](./io_demo.c)
+* [simplesort.c - A program to display sorted numbers based on user input.](./simplesort.c)
