@@ -30,6 +30,8 @@ This is my hands-on practice and understanding of the concepts of the C programm
 * [boolean.c - Interesting conditions using boolean operators](./boolean.c)
 * [specialoperators.c - Some of the special operators that the C programming language offers.](./specialoperators.c)
 * [bitwise.c - Bit wise operations are performed and output is displayed in decimal format.](./bitwise.c)
+* [ternaryoperator.c - Conditional operators return one value if condition is true and returns another value is condition is false.](./ternaryoperator.c)
+
 
 <br>
 
