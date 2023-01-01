@@ -51,7 +51,7 @@ Colons can be used to align columns.
 
 | x        | y           |  x|y  |  x&y  |   x^y |
 |:-------------:|:-------------:|:-----:|:-----:|
-| col 3 is      | right-aligned | $1600 | $1600 |
+| 0      | right-aligned | $1600 | $1600 |
 | col 2 is      | centered      |   $12 | $12 |
 | zebra stripes | are neat      |    $1 |  $1 
 
