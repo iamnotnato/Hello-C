@@ -28,3 +28,4 @@ This is my hands-on practice and understanding of the concepts of the C programm
 * [simplesort.c - A program to display sorted numbers based on user input.](./simplesort.c)
 * [logicaloperators.c - A program to display operators that are used to perform logical operations on given expressions.](./logicaloperators.c)
 * [boolean.c - Interesting conditions using boolean operators](./boolean.c)
+* [specialoperators.c - Some of the special operators that the C programming language offers.](./specialoperators.c)
