@@ -32,7 +32,7 @@ This is my hands-on practice and understanding of the concepts of the C programm
 
 <br>
 
-<h4>Notes: </46>
+<h4>Notes: </h4>
 <br>
 
 | Operator                               | Operator/Description                                                  |
