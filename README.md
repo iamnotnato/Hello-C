@@ -32,18 +32,17 @@ This is my hands-on practice and understanding of the concepts of the C programm
 * [bitwise.c - Bit wise operations are performed and output is displayed in decimal format.](./bitwise.c)
 * [ternaryoperator.c - Conditional operators return one value if condition is true and returns another value is condition is false.](./ternaryoperator.c)
 
-
 <br>
 
 <h4>Increment & Decrement Operators in C: </h4>
 <br>
 
-| Operator                               | Operator/Description                                                  |
-| ---------------------------------------| ----------------------------------------------------------------------|
-| `Pre increment operator (++i)`         | `value of i is incremented before assigning it to the variable i`     |
-| `Post increment operator (i++)`        | `value of i is incremented after assigning it to the variable i);`    |
-| `Pre decrement operator (–i)`          | `value of i is decremented before assigning it to the variable i`     |
-| `Post decrement operator (i–)`         | `value of i is decremented after assigning it to variable i`          |
+| Operator                          | Operator/Description                                               | Result    |
+| ----------------------------------| -------------------------------------------------------------------| ----------|
+| `Pre increment operator (++i)`    | `value of i is incremented before assigning it to the variable i`  | 1 2 3 4   |
+| `Post increment operator (i++)`   | `value of i is incremented after assigning it to the variable i);` | 1 2 3 4 5 |
+| `Pre decrement operator (–i)`     | `value of i is decremented before assigning it to the variable i`  | 9 8 7 6   |
+| `Post decrement operator (i–)`    | `value of i is decremented after assigning it to variable i`       | 9 8 7 6 5 |
 
 <br>
 
