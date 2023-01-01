@@ -47,4 +47,4 @@ This is my hands-on practice and understanding of the concepts of the C programm
 <h4>C – Bit wise Operators</h4>
 <br>
 
-<img src="https://github.com/iamnotnato/Hello-C/blob/master/images/Truth-table-2.png" alt="Logo" width="100" height="100">
+<img src="https://github.com/iamnotnato/Hello-C/blob/master/Truth-table-2.png" width="100" height="100">
