@@ -50,9 +50,9 @@ This is my hands-on practice and understanding of the concepts of the C programm
 <img src="https://github.com/iamnotnato/Hello-C/blob/master/Truth-table-2.png">
 <br>
 
-*Consider x=40 and y=80. Binary form of these values are given below.
- *x = 00101000 
- *y=  01010000
+*Consider x=40 and y=80. Binary form of these values are given below.*
+ *x = 00101000*
+ *y=  01010000*
 
 <br>
 
