@@ -47,19 +47,3 @@ This is my hands-on practice and understanding of the concepts of the C programm
 <h4>C – Bit wise Operators</h4>
 <br>
 
-Colons can be used to align columns.
-
-| x        | y           |  x|y  |  x&y  |   x^y |
-|:-------------:|:-------------:|:-----:|:-----:|
-| 0      | right-aligned | $1600 | $1600 |
-| col 2 is      | centered      |   $12 | $12 |
-| zebra stripes | are neat      |    $1 |  $1 
-
-
-|  x  | y   | x|y | x&y | x^y | 
-| ----| ----| ----| ----| ----|
-|  0  |  0  |  0  |  0  |  0  |
-|  0  |  1  |  1  |  0  |  1  |
-|  1  |  0  |  1  |  0  |  1  |
-|  1  |  1  |  1  |  1  |  0  |
-
