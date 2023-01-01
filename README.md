@@ -32,7 +32,7 @@ This is my hands-on practice and understanding of the concepts of the C programm
 
 <br>
 
-<h4>Notes: </h4>
+<h4>Increment/decrement Operators in C: </h4>
 <br>
 
 | Operator                               | Operator/Description                                                  |
@@ -44,7 +44,7 @@ This is my hands-on practice and understanding of the concepts of the C programm
 
 <br>
 
-<h4>C – Bit wise Operators</h4>
+<h4>C – Bit wise Operators: </h4>
 <br>
 
 <img src="https://github.com/iamnotnato/Hello-C/blob/master/Truth-table-2.png">
