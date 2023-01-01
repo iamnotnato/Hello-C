@@ -30,6 +30,10 @@ This is my hands-on practice and understanding of the concepts of the C programm
 * [boolean.c - Interesting conditions using boolean operators](./boolean.c)
 * [specialoperators.c - Some of the special operators that the C programming language offers.](./specialoperators.c)
 
+<br>
+
+<h6>Notes: </h6>
+
 | Operator                               | Operator/Description                                                  |
 | ---------------------------------------| ----------------------------------------------------------------------|
 | `Pre increment operator (++i)`         | `value of i is incremented before assigning it to the variable i`     |
