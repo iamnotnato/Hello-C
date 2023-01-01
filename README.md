@@ -32,7 +32,7 @@ This is my hands-on practice and understanding of the concepts of the C programm
 
 <br>
 
-<h4>Increment/decrement Operators in C: </h4>
+<h4>Increment & Decrement Operators in C: </h4>
 <br>
 
 | Operator                               | Operator/Description                                                  |
