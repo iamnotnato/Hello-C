@@ -49,8 +49,8 @@ This is my hands-on practice and understanding of the concepts of the C programm
 
 Colons can be used to align columns.
 
-| Tables        | Are           | Cool  |  Cool  |
-| ------------- |:-------------:| -----:| -----:|
+| x        | y           |  x|y  |  x&y  |   x^y |
+|:-------------:|:-------------:|:-----:|:-----:|
 | col 3 is      | right-aligned | $1600 | $1600 |
 | col 2 is      | centered      |   $12 | $12 |
 | zebra stripes | are neat      |    $1 |  $1 
