@@ -29,3 +29,12 @@ This is my hands-on practice and understanding of the concepts of the C programm
 * [logicaloperators.c - A program to display operators that are used to perform logical operations on given expressions.](./logicaloperators.c)
 * [boolean.c - Interesting conditions using boolean operators](./boolean.c)
 * [specialoperators.c - Some of the special operators that the C programming language offers.](./specialoperators.c)
+
+| Operator                               | Operator/Description                                                  |
+| ---------------------------------------| ----------------------------------------------------------------------|
+| `Pre increment operator (++i)`         | `value of i is incremented before assigning it to the variable i`     |
+| `Post increment operator (i++)`        | `value of i is incremented after assigning it to the variable i);`    |
+| `Pre decrement operator (–i)`          | `value of i is decremented before assigning it to the variable i`     |
+| `Post decrement operator (i–)`         | `value of i is decremented after assigning it to variable i`          |
+
+<br>
