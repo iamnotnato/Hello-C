@@ -27,3 +27,4 @@ This is my hands-on practice and understanding of the concepts of the C programm
 * [io_demo.c - A program to display formatted output based on user input](./io_demo.c)
 * [simplesort.c - A program to display sorted numbers based on user input.](./simplesort.c)
 * [logicaloperators.c - A program to display operators that are used to perform logical operations on given expressions.](./logicaloperators.c)
+* [boolean.c - Interesting conditions using boolean operators](./boolean.c)
