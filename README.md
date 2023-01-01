@@ -50,7 +50,22 @@ This is my hands-on practice and understanding of the concepts of the C programm
 <img src="https://github.com/iamnotnato/Hello-C/blob/master/Truth-table-2.png">
 <br>
 
-Consider x=40 and y=80. Binary form of these values are given below.
+*Consider x=40 and y=80. Binary form of these values are given below.
+ *x = 00101000 
+ *y=  01010000
 
-x = 00101000 <br>
-y=  01010000
+<br>
+
+*All bit wise operations for x and y are given below.
+ * x&y = 00000000 (binary) = 0 (decimal)
+ * x|y = 01111000 (binary) = 120 (decimal)
+ * ~x = 11111111111111111111111111 11111111111111111111111111111111010111 = -41 (decimal)
+ * x^y = 01111000 (binary) = 120 (decimal)
+ * x << 1 = 01010000 (binary) = 80 (decimal)
+ * x >> 1 = 00010100 (binary) = 20 (decimal)
+
+<br>
+
+*NOTE:
+ *Bit wise NOT : Value of 40 in binary is 00000000000000000000000000000000 00000000000000000010100000000000. So, all 0’s are converted into 1’s in bit wise NOT operation.
+ *Bit wise left shift and right shift : In left shift operation “x << 1 “, 1 means that the bits will be left shifted by one place. If we use it as “x << 2 “,  then, it means that the bits will be left shifted by 2 places.
