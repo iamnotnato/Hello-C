@@ -56,7 +56,7 @@ This is my hands-on practice and understanding of the concepts of the C programm
 
 <br>
 
-*All bit wise operations for x and y are given below.
+*All bit wise operations for x and y are given below.*
  * x&y = 00000000 (binary) = 0 (decimal)
  * x|y = 01111000 (binary) = 120 (decimal)
  * ~x = 11111111111111111111111111 11111111111111111111111111111111010111 = -41 (decimal)
@@ -67,5 +67,8 @@ This is my hands-on practice and understanding of the concepts of the C programm
 <br>
 
 *NOTE:
- *Bit wise NOT : Value of 40 in binary is 00000000000000000000000000000000 00000000000000000010100000000000. So, all 0’s are converted into 1’s in bit wise NOT operation.
- *Bit wise left shift and right shift : In left shift operation “x << 1 “, 1 means that the bits will be left shifted by one place. If we use it as “x << 2 “,  then, it means that the bits will be left shifted by 2 places.
+ * Bit wise NOT : Value of 40 in binary is 00000000000000000000000000000000 00000000000000000010100000000000. 
+ * So, all 0’s are converted into 1’s in bit wise NOT operation.
+ 
+ * Bit wise left shift and right shift : In left shift operation “x << 1 “, 1 means that the bits will be left shifted by one place. 
+ * If we use it as “x << 2 “,  then, it means that the bits will be left shifted by 2 places.
