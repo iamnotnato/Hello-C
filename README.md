@@ -33,17 +33,19 @@ This is my hands-on practice and understanding of the concepts of the C programm
 <br>
 
 <h4>Notes: </46>
+<br>
 
 | Operator                               | Operator/Description                                                  |
-|----------------------------------------|-----------------------------------------------------------------------|
+| ---------------------------------------| ----------------------------------------------------------------------|
 | `Pre increment operator (++i)`         | `value of i is incremented before assigning it to the variable i`     |
 | `Post increment operator (i++)`        | `value of i is incremented after assigning it to the variable i);`    |
 | `Pre decrement operator (–i)`          | `value of i is decremented before assigning it to the variable i`     |
 | `Post decrement operator (i–)`         | `value of i is decremented after assigning it to variable i`          |
-|----------------------------------------|-----------------------------------------------------------------------|
+
 <br>
 
 <h4>C – Bit wise Operators</h4>
+<br>
 
 |  x  | y   | x|y | x&y | x^y | 
 |-----|-----|-----|-----|-----|
@@ -51,4 +53,4 @@ This is my hands-on practice and understanding of the concepts of the C programm
 |  0  |  1  |  1  |  0  |  1  |
 |  1  |  0  |  1  |  0  |  1  |
 |  1  |  1  |  1  |  1  |  0  |
-|-----------------------------|
+
