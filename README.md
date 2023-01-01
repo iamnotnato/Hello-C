@@ -66,7 +66,7 @@ This is my hands-on practice and understanding of the concepts of the C programm
 
 <br>
 
-*NOTE:
+*NOTE:*
  * Bit wise NOT : Value of 40 in binary is 00000000000000000000000000000000 00000000000000000010100000000000. 
  * So, all 0’s are converted into 1’s in bit wise NOT operation.
  
