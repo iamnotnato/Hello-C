@@ -51,6 +51,9 @@ This is my hands-on practice and understanding of the concepts of the C programm
 <br>
 
 *Consider x=40 and y=80. Binary form of these values are given below.*
+
+<br> 
+
  *x = 00101000*
  *y=  01010000*
 
