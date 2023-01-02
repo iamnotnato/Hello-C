@@ -50,6 +50,8 @@ This is my hands-on practice and understanding of the concepts of the C programm
 * **C takes portability seriously and actually bothers to tell you what values and ranges are guaranteed to be safe.**
 * **The bitwise operators encourage you to think about the number of bits in a variable too, because they give direct access to the bits, 
 which you manipulate one by one or in groups.**
+* **A character variable will probably take less storage than an int and will most likely be used for character manipulation.**
+* **It's still an integer type though, and can be used for arithmetic**
 
 <br>
 <h4>C – Bit wise Operators: </h4>
