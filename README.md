@@ -37,7 +37,7 @@ This is my hands-on practice and understanding of the concepts of the C programm
 <h4>Increment & Decrement Operators in C: </h4>
 <br>
 
-| Operator                          | Operator/Description                                               | Result    |
+| Operator                          | Description                                                        | Result    |
 | ----------------------------------| -------------------------------------------------------------------| ----------|
 | `Pre increment operator (++i)`    | `value of i is incremented before assigning it to the variable i`  | 1 2 3 4   |
 | `Post increment operator (i++)`   | `value of i is incremented after assigning it to the variable i);` | 1 2 3 4 5 |
@@ -45,6 +45,23 @@ This is my hands-on practice and understanding of the concepts of the C programm
 | `Post decrement operator (i–)`    | `value of i is decremented after assigning it to variable i`       | 9 8 7 6 5 |
 
 <br>
+
+<h4>Assignment Operators: </h4>
+<br>
+
+| Operator | Description                       | Example   |
+| ---------|-----------------------------------| ----------| 
+| `=`      | `10 is assigned to variable sum`  | sum = 10; |
+| `+=`     | `This is same as sum = sum + 10`  | sum += 10; |
+| `-=`     | `This is same as sum = sum – 10`  | sum -= 10;   |
+| `*=`     | `This is same as sum = sum * 10`  | sum ***= 10;***|
+| `/=`     | `This is same as sum = sum / 10`  | sum /= 10; |
+| `%=`     | `This is same as sum = sum % 10`  | sum %= 10|
+| `&=`     | `This is same as sum = sum & 10`  | sum&=10; |
+| `^=`     | `This is same as sum = sum ^ 10`  |sum ^= 10; |
+
+<br>
+
 <h4>Important :</h4>
 
 * **C takes portability seriously and actually bothers to tell you what values and ranges are guaranteed to be safe.**
