@@ -49,7 +49,7 @@ This is my hands-on practice and understanding of the concepts of the C programm
 <h4>C – Bit wise Operators: </h4>
 <br>
 
-<img src="https://github.com/iamnotnato/Hello-C/blob/master/Truth-table-2.png">
+<img src="https://github.com/iamnotnato/Hello-C/blob/master/Truth-table-2.png" width="600">
 <br>
 
 *Consider x=40 and y=80. Binary form of these values are given below.*
