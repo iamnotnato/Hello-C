@@ -49,16 +49,16 @@ This is my hands-on practice and understanding of the concepts of the C programm
 <h4>Assignment Operators: </h4>
 <br>
 
-| Operator | Description                       | Example   |
-| ---------|-----------------------------------| ----------| 
-| `=`      | `10 is assigned to variable sum`  | sum = 10; |
-| `+=`     | `This is same as sum = sum + 10`  | sum += 10; |
-| `-=`     | `This is same as sum = sum – 10`  | sum -= 10;   |
-| `*=`     | `This is same as sum = sum * 10`  | sum ****= 10;***|
-| `/=`     | `This is same as sum = sum / 10`  | sum /= 10; |
-| `%=`     | `This is same as sum = sum % 10`  | sum %= 10|
-| `&=`     | `This is same as sum = sum & 10`  | sum&=10; |
-| `^=`     | `This is same as sum = sum ^ 10`  |sum ^= 10; |
+| Operator | Description                       | Example      |
+| ---------|-----------------------------------| -------------| 
+| `=`      | `10 is assigned to variable sum`  | `sum = 10;`  |
+| `+=`     | `This is same as sum = sum + 10`  | `sum += 10;` |
+| `-=`     | `This is same as sum = sum – 10`  | `sum -= 10;` |
+| `*=`     | `This is same as sum = sum * 10`  | `sum *= 10;` |
+| `/=`     | `This is same as sum = sum / 10`  | `sum /= 10;` |
+| `%=`     | `This is same as sum = sum % 10`  | `sum %= 10`  |
+| `&=`     | `This is same as sum = sum & 10`  | `sum&=10;`   |
+| `^=`     | `This is same as sum = sum ^ 10`  | `sum ^= 10;` |
 
 <br>
 
