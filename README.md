@@ -32,10 +32,7 @@ This is my hands-on practice and understanding of the concepts of the C programm
 * [bitwise.c - Bit wise operations are performed and output is displayed in decimal format.](./bitwise.c)
 * [ternaryoperator.c - Conditional operators return one value if condition is true and returns another value is condition is false.](./ternaryoperator.c)
 
-<br>
-
 <h4>Increment & Decrement Operators in C: </h4>
-<br>
 
 | Operator                          | Description                                                        | Result    |
 | ----------------------------------| -------------------------------------------------------------------| ----------|
@@ -44,11 +41,7 @@ This is my hands-on practice and understanding of the concepts of the C programm
 | `Pre decrement operator (–i)`     | `value of i is decremented before assigning it to the variable i`  | 9 8 7 6   |
 | `Post decrement operator (i–)`    | `value of i is decremented after assigning it to variable i`       | 9 8 7 6 5 |
 
-<br>
-
 <h4>Assignment Operators: </h4>
-
-<br>
 
 | Operator | Description                       | Example      |
 | ---------|-----------------------------------| -------------| 
@@ -61,11 +54,7 @@ This is my hands-on practice and understanding of the concepts of the C programm
 | `&=`     | `This is same as sum = sum & 10`  | `sum&=10;`   |
 | `^=`     | `This is same as sum = sum ^ 10`  | `sum ^= 10;` |
 
-<br>
-
 <h4>Relational Operators: </h4>
-
-<br>
 
 | Operator | Description                        | Example   |
 | ---------|------------------------------------| ----------| 
@@ -76,11 +65,7 @@ This is my hands-on practice and understanding of the concepts of the C programm
 | `==`     | `x is equal to y`                  | `x == y`  |
 | `!=`     | `x is not equal to y`              | `x != y`  |
 
-<br>
-
 <h4>Relational Operators: </h4>
-
-<br>
 
 | Operator            | Description                                                           | Example              |
 | --------------------|-----------------------------------------------------------------------| ---------------------| 
@@ -88,8 +73,6 @@ This is my hands-on practice and understanding of the concepts of the C programm
 | `\|\| (logical OR)` | `It returns true when at-least one of the condition is true`          | `(x>=10)\|\|(y>=10)` |
 | `! (logical NOT)`   | `It reverses the state of the operand “((x>5) && (y<5))”`             | `!((x>5)&&(y<5))`    | 
 |                     | `If “((x>5) && (y<5))” is true, logical NOT operator makes it false`  |                      |
-
-<br>
 
 <h4>Important :</h4>
 
