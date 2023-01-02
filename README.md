@@ -92,13 +92,14 @@ which you manipulate one by one or in groups.**
 
 <br>
 
-**All bit wise operations for x and y are given below.**
- * **x&y = 00000000 (binary) = 0 (decimal)**
- * **x|y = 01111000 (binary) = 120 (decimal)**
- * **~x = 11111111111111111111111111 11111111111111111111111111111111010111 = -41 (decimal)**
- * **x^y = 01111000 (binary) = 120 (decimal)**
- * **x << 1 = 01010000 (binary) = 80 (decimal)**
- * **x >> 1 = 00010100 (binary) = 20 (decimal)**
+** *All bit wise operations for x and y are given below.**
+    * **x&y = 00000000 (binary) = 0 (decimal)**
+    * **x|y = 01111000 (binary) = 120 (decimal)**
+    * **~x = 11111111111111111111111111 11111111111111111111111111111111010111 = -41 (decimal)**
+    * **x^y = 01111000 (binary) = 120 (decimal)**
+    * **x << 1 = 01010000 (binary) = 80 (decimal)**
+    * **x >> 1 = 00010100 (binary) = 20 (decimal)**
+    
 
 * **NOTE:**
   * ** Bit wise NOT : Value of 40 in binary is 00000000000000000000000000000000 00000000000000000010100000000000.**
