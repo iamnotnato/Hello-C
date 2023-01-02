@@ -62,6 +62,67 @@ This is my hands-on practice and understanding of the concepts of the C programm
 
 <br>
 
+<table style="width: 79.5758%; margin-left: 10%; margin-right: 10%;">
+<tbody>
+<tr>
+<td style="border: 1px solid #000000; width: 23%; text-align: center;">
+<div><span style="color: #000000;" data-mce-mark="1"><strong>Operators</strong></span></div>
+</td>
+<td style="border: 1px solid #000000; width: 74.0762%; text-align: center;">
+<div><span style="color: #000000;" data-mce-mark="1"><strong>Example/Description</strong></span></div>
+</td>
+</tr>
+<tr>
+<td style="border: 1px solid #000000; width: 23%; text-align: center;">
+<div>&gt;</div>
+</td>
+<td style="border: 1px solid #000000; width: 74.0762%;">
+<div>x &gt; y (x is greater than y)</div>
+</td>
+</tr>
+<tr>
+<td style="border: 1px solid #000000; width: 23%; text-align: center;">
+<div>&lt;</div>
+</td>
+<td style="border: 1px solid #000000; width: 74.0762%;">
+<div>x &lt; y (x is less than y)</div>
+</td>
+</tr>
+<tr>
+<td style="border: 1px solid #000000; width: 23%; text-align: center;">
+<div>&gt;=</div>
+</td>
+<td style="border: 1px solid #000000; width: 74.0762%;">
+<div>x &gt;= y (x is greater than or equal to y)</div>
+</td>
+</tr>
+<tr>
+<td style="border: 1px solid #000000; width: 23%; text-align: center;">
+<div>&lt;=</div>
+</td>
+<td style="border: 1px solid #000000; width: 74.0762%;">
+<div>x &lt;= y (x is less than or equal to y)</div>
+</td>
+</tr>
+<tr>
+<td style="border: 1px solid #000000; width: 23%; text-align: center;">
+<div>==</div>
+</td>
+<td style="border: 1px solid #000000; width: 74.0762%;">
+<div>x == y (x is equal to y)</div>
+</td>
+</tr>
+<tr>
+<td style="border: 1px solid #000000; width: 23%; text-align: center;">
+<div>!=</div>
+</td>
+<td style="border: 1px solid #000000; width: 74.0762%;">
+<div>x != y (x is not equal to y)</div>
+</td>
+</tr>
+</tbody>
+</table>
+
 <h4>Important :</h4>
 
 * **C takes portability seriously and actually bothers to tell you what values and ranges are guaranteed to be safe.**
