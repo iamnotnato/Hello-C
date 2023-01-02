@@ -47,11 +47,10 @@ This is my hands-on practice and understanding of the concepts of the C programm
 <br>
 <h4>Important :</h4>
 
-*C takes portability seriously and actually bothers to tell you what values and ranges are guaranteed to be safe.*
-*The bitwise operators encourage you to think about the number of bits in a variable too, because they give direct access to the bits, 
-which you manipulate one by one or in groups.*
+**C takes portability seriously and actually bothers to tell you what values and ranges are guaranteed to be safe.**
+**The bitwise operators encourage you to think about the number of bits in a variable too, because they give direct access to the bits, 
+which you manipulate one by one or in groups.**
 
-<br>
 <br>
 <h4>C – Bit wise Operators: </h4>
 <br>
