@@ -92,7 +92,7 @@ which you manipulate one by one or in groups.**
 
 <br>
 
-** *All bit wise operations for x and y are given below.**
+* **All bit wise operations for x and y are given below.**
     * **x&y = 00000000 (binary) = 0 (decimal)**
     * **x|y = 01111000 (binary) = 120 (decimal)**
     * **~x = 11111111111111111111111111 11111111111111111111111111111111010111 = -41 (decimal)**
