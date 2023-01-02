@@ -78,6 +78,19 @@ This is my hands-on practice and understanding of the concepts of the C programm
 
 <br>
 
+<h4>Relational Operators: </h4>
+
+<br>
+
+| Operator           | Description                        | Example   |
+| -------------------|------------------------------------| ----------| 
+| `&& (logical AND)` | `It returns true when both conditions are true`              | `(x>5)&&(y<5)`   |
+| `|| (logical OR)`  | `It returns true when at-least one of the condition is true`                 | `(x>=10)||(y>=10)`   |
+| `! (logical NOT)`  | `It reverses the state of the operand “((x>5) && (y<5))”
+If “((x>5) && (y<5))” is true, logical NOT operator makes it false`  | `!((x>5)&&(y<5))` |
+
+<br>
+
 <h4>Important :</h4>
 
 * **C takes portability seriously and actually bothers to tell you what values and ranges are guaranteed to be safe.**
