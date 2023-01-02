@@ -47,6 +47,7 @@ This is my hands-on practice and understanding of the concepts of the C programm
 <br>
 
 <h4>Assignment Operators: </h4>
+
 <br>
 
 | Operator | Description                       | Example      |
@@ -61,8 +62,11 @@ This is my hands-on practice and understanding of the concepts of the C programm
 | `^=`     | `This is same as sum = sum ^ 10`  | `sum ^= 10;` |
 
 <br>
+
 <h4>Relational Operators: </h4>
+
 <br>
+
 | Operator | Description                        | Example   |
 | ---------|------------------------------------| ----------| 
 | `>`      | `x is greater than y`              | `x > y`   |
@@ -71,7 +75,9 @@ This is my hands-on practice and understanding of the concepts of the C programm
 | `<=`     | `x is less than or equal to y`     | `x <= y`  |
 | `==`     | `x is equal to y`                  | `x == y`  |
 | `!=`     | `x is not equal to y`              | `x != y`  |
+
 <br>
+
 <h4>Important :</h4>
 
 * **C takes portability seriously and actually bothers to tell you what values and ranges are guaranteed to be safe.**
