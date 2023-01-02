@@ -82,19 +82,13 @@ which you manipulate one by one or in groups.**
 * **A character variable will probably take less storage than an int and will most likely be used for character manipulation.**
 * **It's still an integer type though, and can be used for arithmetic**
 
-<br>
 <h4>C – Bit wise Operators: </h4>
-<br>
 
 <img src="https://github.com/iamnotnato/Hello-C/blob/master/Truth-table-2.png" width="600">
-<br>
 
-*Consider x=40 and y=80. Binary form of these values are given below.*
-
-<br> 
-
- *x = 00101000*
- *y=  01010000*
+**Consider x=40 and y=80. Binary form of these values are given below.**
+  * **x = 00101000***
+  * **y=  01010000***
 
 <br>
 
