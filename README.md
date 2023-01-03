@@ -16,6 +16,10 @@ This is my hands-on practice and understanding of the concepts of the C programm
   </tr>
 </table>
 
+<br>
+
+![Alt](https://repobeats.axiom.co/api/embed/9be8620fce4e281fe6e3d0fcc68ca8fa88d0883e.svg "Repobeats analytics image")
+
 <h4>Files: </h4>
 
 * [arrays.c - A short summary of arrays and useful commands to access files.](./arrays.c)
